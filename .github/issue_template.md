@@ -1,11 +1,12 @@
 <!-- 
 ==================================================
-POR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END!
+POR FAVOR, SÓ POSTE SE A VAGA FOR PARA REGIÃO DO ES!
 
 Não faça distinção de gênero no titulo da vaga.
 
-Use: "Front-End Developer" ao invés de 
-"Desenvolvedor Front-End" \o/
+Na descrição utilize o modelo: 
+
+[Função] - [Empresa] - [Tecnologia principal da função]
 ==================================================
 -->
 
@@ -15,7 +16,7 @@ Projeto bazinga em NodeJS, etc.
 
 ## Local
 
-Remoto ou Escritório, São Paulo - Vila Olímpia
+Remoto ou Escritório, Vitória
 
 ## Benefícios
 
@@ -38,6 +39,12 @@ Remoto ou Escritório, São Paulo - Vila Olímpia
 **Diferenciais:**
 - projetos opensource
 
+** Desafios da Função: ** 
+- Enfrentamos atualmente um grande desafio de refatorarmos 12929289128912189 funções e gostaríamos 
+de colocar em uma forma mais estruturada, esperamos que tenhamos esses serviços usando algum molde que ajude nas nossas entregas 
+para que reduza em x% o tempo de entrega das versões.
+- Faça o desenvolvedor se identificar com o desafio e se sinta desafiado a resolver, alguns curtem mais o desafio que o salário.
+
 ## Contratação
 
 PJ a combinar
@@ -45,6 +52,8 @@ PJ a combinar
 ## Nossa empresa
 
 Aqui na Corporação ACME somos líderes em...
+
+Venda seu peixe e faça o dev se apaixonar pela sua empresa!
 
 ## Como se candidatar
 
