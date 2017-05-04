@@ -4,6 +4,9 @@
 
 # Vagas (Somente vagas no estado do Espírito Santo)
 
+Seguindo o exemplo do grupo [FrontEndBR](https://github.com/frontendbr/vagas), fizemos fork e estamos gerenciando as vagas no ecossistema capixaba
+
+
 Espaço para a divulgação de vagas para desenvolvedores via _issues_ do Github.
 
 Vagas disponíveis em https://github.com/Dev-ES/vagas/issues
@@ -25,5 +28,5 @@ Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, ped
  
 ## Licença
 
-[MIT](/LICENSE) &copy; FrontendBR
+[MIT](/LICENSE) &copy; Dev-ES
 
