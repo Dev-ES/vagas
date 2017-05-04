@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars0.githubusercontent.com/u/16963863?v=3&s=200.jpg" alt="FrontEndBR" width="230" />
+  <img src="http://oi65.tinypic.com/5yb150.jpg" alt="DevEs" />
 </p>
 
 # Vagas (Somente vagas de Front-End)
